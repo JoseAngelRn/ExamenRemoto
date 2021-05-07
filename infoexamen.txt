@@ -1,0 +1,30 @@
+* commit 4d6314caada6309fd4690c3b9bac51e7b46cf402 (HEAD -> master, JoseAngelRn/master, Rama_Ejercicio2)
+| Author: JoseAngel <joseangel.ma44965@cesurformacion.com>
+| Date:   Fri May 7 09:29:05 2021 +0200
+| 
+|     Añadimos las fotos del ejercicio 2 y segunda modificacion del fichero
+| 
+* commit 20796fbe1dfd496d99fdaff4f5e5860af7773942
+| Author: JoseAngel <joseangel.ma44965@cesurformacion.com>
+| Date:   Fri May 7 09:26:51 2021 +0200
+| 
+|     Añadimos la descripcion_ejercicio2
+| 
+* commit cc1d0f65fc8df16c493413e50defc648bc1b3012
+| Author: JoseAngel <joseangel.ma44965@cesurformacion.com>
+| Date:   Fri May 7 09:23:34 2021 +0200
+| 
+|     Añadimmos imagenes y modificamos fichero
+| 
+* commit e2b872eb4a72f00305742c3a0cc9ab52074d3f89
+  Author: JoseAngel <joseangel.ma44965@cesurformacion.com>
+  Date:   Fri May 7 09:20:37 2021 +0200
+  
+      Modificacion 1
+4d6314c HEAD@{0}: merge Rama_Ejercicio2: Fast-forward
+cc1d0f6 HEAD@{1}: checkout: moving from Rama_Ejercicio2 to master
+4d6314c HEAD@{2}: commit: Añadimos las fotos del ejercicio 2 y segunda modificacion del fichero
+20796fb HEAD@{3}: commit: Añadimos la descripcion_ejercicio2
+cc1d0f6 HEAD@{4}: checkout: moving from master to Rama_Ejercicio2
+cc1d0f6 HEAD@{5}: commit: Añadimmos imagenes y modificamos fichero
+e2b872e HEAD@{6}: commit (initial): Modificacion 1
