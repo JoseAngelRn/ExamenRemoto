@@ -1,0 +1,1 @@
+Hemos creado un Script de monitorizacion, con 5 opciones diferentes, y en caso de no elegir ninguna se reinicia automaticamente
