@@ -1,1 +1,2 @@
-Hemos creado un Script de monitorizacion, con 5 opciones diferentes, y en caso de no elegir ninguna se reinicia automaticamente
+Hemos creado un Script de monitorizacion, con 5 opciones diferentes, y en caso de no elegir ninguna se reinicia automaticamente.
+Ademas la opcion 5 es para salir de la consola
