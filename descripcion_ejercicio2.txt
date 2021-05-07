@@ -1,1 +1,2 @@
-Hemos creado un srcipt para que un comando que le indiquemos se ejecute un numero de veces qeu tambien indicamos
+Hemos creado un srcipt para que un comando que le indiquemos se ejecute un numero de veces qeu tambien indicamos.
+Cuando termine de ejecutarse nos mostrara FIN
